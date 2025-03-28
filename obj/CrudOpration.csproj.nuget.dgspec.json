@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\CrudOpration\\CrudOpration.csproj": {}
+    "D:\\KirtiRaval\\Employee_CRUD\\CRUD_Employee1\\CrudOpration.csproj": {}
   },
   "projects": {
-    "D:\\C#\\CrudOpration\\CrudOpration.csproj": {
+    "D:\\KirtiRaval\\Employee_CRUD\\CRUD_Employee1\\CrudOpration.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\CrudOpration\\CrudOpration.csproj",
+        "projectUniqueName": "D:\\KirtiRaval\\Employee_CRUD\\CRUD_Employee1\\CrudOpration.csproj",
         "projectName": "CrudOpration",
-        "projectPath": "D:\\C#\\CrudOpration\\CrudOpration.csproj",
-        "packagesPath": "C:\\Users\\InfoElegant01\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\CrudOpration\\obj\\",
+        "projectPath": "D:\\KirtiRaval\\Employee_CRUD\\CRUD_Employee1\\CrudOpration.csproj",
+        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+        "outputPath": "D:\\KirtiRaval\\Employee_CRUD\\CRUD_Employee1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\InfoElegant01\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -94,7 +94,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
