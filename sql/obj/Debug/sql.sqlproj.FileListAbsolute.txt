@@ -1,0 +1,10 @@
+D:\C#\CrudOpration\sql\bin\Debug\sql.dacpac
+D:\C#\CrudOpration\sql\bin\Debug\sql.dll
+D:\C#\CrudOpration\sql\bin\Debug\sql.pdb
+D:\C#\CrudOpration\sql\obj\Debug\sql.sqlproj.AssemblyReference.cache
+D:\C#\CrudOpration\sql\obj\Debug\Model.xml
+D:\C#\CrudOpration\sql\obj\Debug\refactor.xml
+D:\C#\CrudOpration\sql\obj\Debug\postdeploy.sql
+D:\C#\CrudOpration\sql\obj\Debug\predeploy.sql
+D:\C#\CrudOpration\sql\obj\Debug\sql.dll
+D:\C#\CrudOpration\sql\obj\Debug\sql.pdb
